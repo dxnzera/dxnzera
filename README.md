@@ -10,7 +10,7 @@ functional solutions.
 I am always looking for new challenges, learning opportunities, and chances to transform ideas into 
 digital experiences."
 
-Main Skils: ["TypeScript", "JavaScript", "React", "Tailwind", "Next.js"]
+Main Skils: ["TypeScript", "JavaScript", "Swift", "React", "Tailwind", "Next.js"]
 
 Interests:
   - "Design"
